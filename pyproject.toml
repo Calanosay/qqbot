@@ -1,0 +1,4 @@
+[tool]
+[tool.nonebot]
+plugins = ["nonebot_plugin_heweather", "nonebot_plugin_repeater"]
+plugin_dirs = []
